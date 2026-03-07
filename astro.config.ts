@@ -43,6 +43,12 @@ export default defineConfig({
     optimizeDeps: {
       exclude: ["@resvg/resvg-js"],
     },
+    // ADD THIS BUILD BLOCK:
+    build: {
+      rollupOptions: {
+        external: ["@resvg/resvg-js"],
+      },
+    },
   },
   image: {
     responsiveStyles: true,
