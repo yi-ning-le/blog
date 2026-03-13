@@ -29,5 +29,3 @@ Use Coding Agent to build a HR system to reduce a lot of unnecessary step and sp
 
 [backend repo address](https://github.com/yi-ning-le/hr-backend)
 [frontend repo address](https://github.com/yi-ning-le/hr-frontend)
-
-This blog is a place where I write down what I have learned.
